@@ -908,3 +908,198 @@ Bank 63 8 User1
 126 127 Ld: Hip Voice
 127 128 Me: Strobe
 
+Bank 63 9 User2 (same as Pre5 in default settings)
+0   1   Co: Gruvmaster
+1   2   Co: ANbasicARP
+2   3   Co: Europa
+3   4   Co: Q Machine
+4   5   Co: Happy Boy
+5   6   Co: X-Pulsar
+6   7   Co: Tekno Spy
+7   8   Co: Tuff Arp
+8   9   Co: Polygroove
+9   10  Co: OrangeMW
+10  11  Co: Hip Chordz
+11  12  Co: Em Arp
+12  13  Co: LostIsland
+13  14  Ba: Bobby Bass
+14  15  Ba: RnBass
+15  16  Ba: SimpleBss2
+16  17  Ba: SimpleReso
+17  18  Ba: BobbyJuice
+18  19  Ba: Bass&Comp!
+19  20  Ba: TranceBass
+20  21  Ba: Emlate
+21  22  Ba: Velomaster
+22  23  Ba: Kick Bass
+23  24  Ba: Hollow
+24  25  Ba: Em Bass
+25  26  Ba: Oxide
+26  27  Ba: Acidd
+27  28  Ba: Pirate
+28  29  Ba: AgressoFx
+29  30  Ba: LOFI-BASS
+30  31  Ba: Quack
+31  32  Ba: ConeFlappe
+32  33  St: Warmest
+33  34  St: FatStrings
+34  35  St: Superstrgs
+35  36  St: JupiterStr
+36  37  St: MIDIPAD
+37  38  Br: AKIRABRASS
+38  39  Br: TV Brass
+39  40  Br: Oberbrass
+40  41  Br: Thinth
+41  42  Br: Trendy
+42  43  Ld: Tech Lead
+43  44  Ld: PulseWidth
+44  45  Ld: Mr. Finger
+45  46  Ld: Punch Lead
+46  47  Ld: GOA LEAD
+47  48  Ld: I.C.U.2.
+48  49  Ld: Space Lead
+49  50  Ld: Lead Wait
+50  51  Ld: Pig Lead
+51  52  Ld: Chordz
+52  53  Pd: Twilight
+53  54  Pd: VDU Pad
+54  55  Pd: HPF+LPFpad
+55  56  Pd: Sonar Pad
+56  57  Pd: Whisperer
+57  58  Pd: Flangerous
+58  59  Pd: Sadness
+59  60  Pd: Super Back
+60  61  Pd: Bastille
+61  62  Pd: Fat Swell
+62  63  Pd: Pad&Syn
+63  64  Pd: Eurostar
+64  65  Pd: Pretty far
+65  66  Pd: Needles
+66  67  Pd: VectorPad1
+67  68  Pd: Wake Up
+68  69  Pd: Ether
+69  70  Pd: Spiralised
+70  71  Pd: RezSinePad
+71  72  Pd: Granular
+72  73  Pd: Ropey
+73  74  Pd: Smear
+74  75  Pd: Mizar
+75  76  Pd: Homesick
+76  77  Pd: Lost.
+77  78  Pd: Haunting
+78  79  Pd: Infant
+79  80  Pd: High Sine
+80  81  Pd: Sm.OrganPd
+81  82  Pd: Chianti
+82  83  Pd: Guitar Pad
+83  84  Pd: Tuscan
+84  85  Pd: Shuttle
+85  86  Pd: Ether 2
+86  87  Sc: Sine Comp
+87  88  Sc: Queens
+88  89  Sc: Kairo
+89  90  Sc: Synes XL
+90  91  Sc: FaaatDance
+91  92  Sc: Random LFO
+92  93  Sc: Vacuum
+93  94  Sc: RezzPunch
+94  95  Sc: Kordal MW
+95  96  Sc: M-Trance
+96  97  Sc: Euro
+97  98  Sc: DX Metal
+98  99  Me: Atlantis
+99  100 Me: Meteors
+100 101 Me: Girlfriend
+101 102 Me: Nebula AT
+102 103 Me: CosmicRain
+103 104 Me: Contact
+104 105 Me: Dalahi
+105 106 Me: CrushpadMW
+106 107 Me: Ar-tic
+107 108 Me: Alaska
+108 109 Me: Clusters
+109 110 Me: Glister
+110 111 Me: SliceIt Up
+111 112 Me: Chaser 3
+112 113 Me: Surface
+113 114 Me: Stalagtite
+114 115 Me: 4ling Star
+115 116 Me: Old Skool
+116 117 Me: Katsu
+117 118 Me: Genie
+118 119 Se: Dream Text
+119 120 Se: Ambi Rain
+120 121 Se: Bitzz MW
+121 122 Se: JumpQ MW
+122 123 Se: Molt
+123 124 Se: Samsara
+124 125 Se: FX-MWSweep
+125 126 Se: Static
+126 127 Dr: Wriggle
+127 128 Dr: Kraftbeat
+
+Bank 63 32 Drums
+0 1 PoweredStd
+1 2 DryStandrd
+2 3 RockSt1
+3 4 RockSt2
+4 5 RockMono1
+5 6 Hip Hop1
+6 7 Hip Hop2
+7 8 HipStick1
+8 9 T9HipKit1
+9 10 R&B Kit1
+10 11 R&B Kit2
+11 12 AnalogT9
+12 13 AnalogT8
+13 14 Tekno Kit
+14 15 House Kit1
+15 16 House Kit2
+16 17 Big Kit
+17 18 Break Kit
+18 19 Drum'nBass
+19 20 Acid Kit
+20 21 Jungle Kit
+21 22 Electric
+22 23 Human Kit
+23 24 Hard Kit
+24 25 DistrtdKit
+25 26 AmbientKit
+26 27 Jazz Kit
+27 28 Hip Hop3
+28 29 Hip Hop4
+29 30 HipStick2
+30 31 Garage
+31 32 ALL-ROUND
+32 33 Rock Multi
+33 34 Hip Multi
+34 35 Percussion
+35 36 Latin Perc
+36 37 Gtr/Bs Fx
+37 38 Wacko Kit
+38 39 Wood Bits
+39 40 Metal Bits
+40 41 Hands Kit
+41 42 Scratches
+42 43 AcstSnares
+43 44 StSnares
+44 45 AllKicks
+45 46 DanceKicks
+46 47 Snare & Fx
+47 48 EasySnare
+
+Bank 63 40 User Drums
+0 1 RockMono2
+1 2 RockMono3
+2 3 Hip Hop5
+3 4 Hip Hop6
+4 5 T9HipKit2
+5 6 HipStick3
+6 7 HipStick4
+7 8 R&B Kit3
+8 9 Motor City
+9 10 MW AmpSim
+
+Bank 127 0 GM Drums
+0 1 Stereo GM
+
