@@ -128,7 +128,7 @@ Bank 63 0 Pre1: Ap, Kb, Cp, Or, Gt, Ba
 126 127 Ba: Tack Bass
 127 128 Ba: Fat Octave
 
-Bank 63 1 Pre2: St, Br, Rp, Ld, Pd, Me
+Bank 63 1 Pre2: St, Br, Rp, Ld, Pd, Me, Dr
 0   1   St: Violin
 1   2   St: Viola
 2   3   St: Cello
@@ -517,4 +517,135 @@ Bank 63 3 Pre4: Ap, Kb, Cp, Or, Gt, Ba, St, Br, Ld, Pd
 125 126 Co: Funky Mood
 126 127 Co: Step Down
 127 128 Co: Shantasma
+
+Bank 63 4 Pre5: Co, Ba, St, Ld, Pd, Sc, Me, Se, Dr
+0   1   Co: Gruvmaster
+1   2   Co: ANbasicARP
+2   3   Co: Europa
+3   4   Co: Q Machine
+4   5   Co: Happy Boy
+5   6   Co: X-Pulsar
+6   7   Co: Tekno Spy
+7   8   Co: Tuff Arp
+8   9   Co: Polygroove
+9   10  Co: OrangeMW
+10  11  Co: Hip Chordz
+11  12  Co: Em Arp
+12  13  Co: LostIsland
+13  14  Ba: Bobby Bass
+14  15  Ba: RnBass
+15  16  Ba: SimpleBss2
+16  17  Ba: SimpleReso
+17  18  Ba: BobbyJuice
+18  19  Ba: Bass&Comp!
+19  20  Ba: TranceBass
+20  21  Ba: Emlate
+21  22  Ba: Velomaster
+22  23  Ba: Kick Bass
+23  24  Ba: Hollow
+24  25  Ba: Em Bass
+25  26  Ba: Oxide
+26  27  Ba: Acidd
+27  28  Ba: Pirate
+28  29  Ba: AgressoFx
+29  30  Ba: LOFI-BASS
+30  31  Ba: Quack
+31  32  Ba: ConeFlappe
+32  33  St: Warmest
+33  34  St: FatStrings
+34  35  St: Superstrgs
+35  36  St: JupiterStr
+36  37  St: MIDIPAD
+37  38  Br: AKIRABRASS
+38  39  Br: TV Brass
+39  40  Br: Oberbrass
+40  41  Br: Thinth
+41  42  Br: Trendy
+42  43  Ld: Tech Lead
+43  44  Ld: PulseWidth
+44  45  Ld: Mr. Finger
+45  46  Ld: Punch Lead
+46  47  Ld: GOA LEAD
+47  48  Ld: I.C.U.2.
+48  49  Ld: Space Lead
+49  50  Ld: Lead Wait
+50  51  Ld: Pig Lead
+51  52  Ld: Chordz
+52  53  Pd: Twilight
+53  54  Pd: VDU Pad
+54  55  Pd: HPF+LPFpad
+55  56  Pd: Sonar Pad
+56  57  Pd: Whisperer
+57  58  Pd: Flangerous
+58  59  Pd: Sadness
+59  60  Pd: Super Back
+60  61  Pd: Bastille
+61  62  Pd: Fat Swell
+62  63  Pd: Pad&Syn
+63  64  Pd: Eurostar
+64  65  Pd: Pretty far
+65  66  Pd: Needles
+66  67  Pd: VectorPad1
+67  68  Pd: Wake Up
+68  69  Pd: Ether
+69  70  Pd: Spiralised
+70  71  Pd: RezSinePad
+71  72  Pd: Granular
+72  73  Pd: Ropey
+73  74  Pd: Smear
+74  75  Pd: Mizar
+75  76  Pd: Homesick
+76  77  Pd: Lost.
+77  78  Pd: Haunting
+78  79  Pd: Infant
+79  80  Pd: High Sine
+80  81  Pd: Sm.OrganPd
+81  82  Pd: Chianti
+82  83  Pd: Guitar Pad
+83  84  Pd: Tuscan
+84  85  Pd: Shuttle
+85  86  Pd: Ether 2
+86  87  Sc: Sine Comp
+87  88  Sc: Queens
+88  89  Sc: Kairo
+89  90  Sc: Synes XL
+90  91  Sc: FaaatDance
+91  92  Sc: Random LFO
+92  93  Sc: Vacuum
+93  94  Sc: RezzPunch
+94  95  Sc: Kordal MW
+95  96  Sc: M-Trance
+96  97  Sc: Euro
+97  98  Sc: DX Metal
+98  99  Me: Atlantis
+99  100 Me: Meteors
+100 101 Me: Girlfriend
+101 102 Me: Nebula AT
+102 103 Me: CosmicRain
+103 104 Me: Contact
+104 105 Me: Dalahi
+105 106 Me: CrushpadMW
+106 107 Me: Ar-tic
+107 108 Me: Alaska
+108 109 Me: Clusters
+109 110 Me: Glister
+110 111 Me: SliceIt Up
+111 112 Me: Chaser 3
+112 113 Me: Surface
+113 114 Me: Stalagtite
+114 115 Me: 4ling Star
+115 116 Me: Old Skool
+116 117 Me: Katsu
+117 118 Me: Genie
+118 119 Se: Dream Text
+119 120 Se: Ambi Rain
+120 121 Se: Bitzz MW
+121 122 Se: JumpQ MW
+122 123 Se: Molt
+123 124 Se: Samsara
+124 125 Se: FX-MWSweep
+125 126 Se: Static
+126 127 Dr: Wriggle
+127 128 Dr: Kraftbeat
+
 
