@@ -388,4 +388,133 @@ Bank 63 2 Pre3: Ap, Kb, Or, Ba, St, Br, Ld, Pd, Me, Co, Se
 126 127 Se: WatrForest
 127 128 Se: Spacecraft
 
+Bank 63 3 Pre4: Ap, Kb, Cp, Or, Gt, Ba, St, Br, Ld, Pd
+0   1   Ap: MultcmpPno
+1   2   Ap: Light
+2   3   Ap: ConcrtGrnd
+3   4   Ap: Balld Stck
+4   5   Ap: Hard CP80
+5   6   Ap: StereoComp
+6   7   Ap: MetalPiano
+7   8   Ap: Old Piano
+8   9   Ap: Diablo
+9   10  Kb: Satellite
+10  11  Kb: SummerTime
+11  12  Kb: SparkleTin
+12  13  Kb: Tine E
+13  14  Kb: Mr. Klank
+14  15  Kb: DX7+Pad
+15  16  Kb: PluckBells
+16  17  Kb: RetroWurli
+17  18  Kb: DampedClav
+18  19  Kb: Dummy
+19  20  Kb: Neo Soul
+20  21  Kb: EpfCrusher
+21  22  Kb: PlukdThing
+22  23  Kb: Hiss Pad
+23  24  Cp: GlassBells
+24  25  Cp: YumiBell
+25  26  Cp: Pad Bells
+26  27  Cp: EthnoStone
+27  28  Cp: BellsAbuzz
+28  29  Cp: Icey Vibe
+29  30  Cp: Gongladeer
+30  31  Cp: ScaryNight
+31  32  Or: MoreDrwbrs
+32  33  Or: Soulemn
+33  34  Or: Green
+34  35  Or: JimyPercC3
+35  36  Or: Dirt Organ
+36  37  Or: Vint Drive
+37  38  Or: Yoshi Perc
+38  39  Or: Big Track
+39  40  Or: Circus
+40  41  Or: Mikuni’sFI
+41  42  Or: Elemental
+42  43  Or: Farfasso
+43  44  Or: Willis
+44  45  Or: Reed
+45  46  Or: Partita
+46  47  Gt: Policia
+47  48  Gt: Jazzmaster
+48  49  Gt: Trip Rotor
+49  50  Gt: Radio Cmp2
+50  51  Gt: Simple WAH
+51  52  Gt: Wah-Riff
+52  53  Gt: Guitar&Pad
+53  54  Gt: Coral
+54  55  Gt: Harp
+55  56  Gt: RnB Harp
+56  57  Ba: Precsn Cmp
+57  58  Ba: TubeFinger
+58  59  Ba: Finger Amp
+59  60  Ba: It'sRounda
+60  61  Ba: NoResBass
+61  62  Ba: Fat Sine
+62  63  Ba: Wobble
+63  64  Ba: Decor
+64  65  Ba: Thump
+65  66  Ba: EmFunk
+66  67  Ba: FatOctaRes
+67  68  Ba: Org Bass
+68  69  Ba: FM Klick
+69  70  Ba: Fat Low
+70  71  Ba: SimplePowr
+71  72  St: VeloString
+72  73  St: NoSofia St
+73  74  St: HoodStrngs
+74  75  St: FullStrngs
+75  76  St: Chamber AT
+76  77  St: Big Swell2
+77  78  St: BlueString
+78  79  St: Old String
+79  80  St: 78rpmStrgs
+80  81  St: Ens+Flute
+81  82  St: Bells&Bows
+82  83  St: The Pad
+83  84  St: Full PWM
+84  85  Br: HybridSect
+85  86  Br: TaniBrass
+86  87  Br: Hybrid
+87  88  Br: F HornSec2
+88  89  Br: Hi Brass 2
+89  90  Br: Brassy
+90  91  Br: Hybri Pad
+91  92  Br: Oberhorns
+92  93  Br: PiccoloTpt
+93  94  Br: Flugelist
+94  95  Rp: Soprano 3
+95  96  Rp: 4Brothers
+96  97  Rp: Antique
+97  98  Rp: Flutter Fl
+98  99  Rp: Real Flute
+99  100 Rp: Querfloete
+100 101 Rp: Oboe+EHorn
+101 102 Rp: FluteChord
+102 103 Ld: Mini Soft
+103 104 Ld: Portatone
+104 105 Ld: Sine Ld 2
+105 106 Ld: Bare Saw
+106 107 Ld: Green Eyes
+107 108 Ld: inda Night
+108 109 Pd: Shine on
+109 110 Pd: Simp. Pad
+110 111 Pd: Voxxaire
+111 112 Pd: Angelvoice
+112 113 Pd: Shangralo
+113 114 Pd: Warm PWM
+114 115 Pd: Balcony
+115 116 Pd: Alabaster
+116 117 Pd: BackPad MW
+117 118 Pd: Dark Tower
+118 119 Sc: Basic Poly
+119 120 Sc: Straight
+120 121 Sc: Soleil
+121 122 Sc: Ana Synth1
+122 123 Sc: PopularSyn
+123 124 Co: For Bertje
+124 125 Co: Udu Too
+125 126 Co: Funky Mood
+126 127 Co: Step Down
+127 128 Co: Shantasma
 
