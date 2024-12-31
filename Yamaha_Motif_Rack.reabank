@@ -648,4 +648,133 @@ Bank 63 4 Pre5: Co, Ba, St, Ld, Pd, Sc, Me, Se, Dr
 126 127 Dr: Wriggle
 127 128 Dr: Kraftbeat
 
+Bank 0 0 General MIDI
+0   1   Ap: NaturlGrnd
+1   2   Ap: Rock Brite
+2   3   Ap: CP 2001
+3   4   Ap: Honkytonk
+4   5   Kb: E.Piano 1
+5   6   Kb: E.Piano 2
+6   7   Kb: Harpsicord
+7   8   Kb: Brite Clav
+8   9   Cp: Celeste
+9   10  Cp: Glocken
+10  11  Cp: Music Box
+11  12  Cp: Vibes
+12  13  Cp: Marimba
+13  14  Cp: Xylophone
+14  15  Cp: TublarBell
+15  16  Cp: Dulcimar
+16  17  Or: Draw Organ
+17  18  Or: Perc Organ
+18  19  Or: Rock Organ
+19  20  Or: ChurchOrgn
+20  21  Or: Reed Organ
+21  22  Kb: Accordion
+22  23  Rp: Harmonica
+23  24  Kb: TangoAccrd
+24  25  Gt: Nylon
+25  26  Gt: Steel
+26  27  Gt: ModernJazz
+27  28  Gt: Clean
+28  29  Gt: Mute
+29  30  Gt: Overdrive
+30  31  Gt: Distortion
+31  32  Gt: Harmonics
+32  33  Ba: Accoustic
+33  34  Ba: FingerBass
+34  35  Ba: Pick Bass
+35  36  Ba: Fretless 2
+36  37  Ba: SimpleSlap
+37  38  Ba: Velo Slap
+38  39  Ba: SynthBass1
+39  40  Ba: SynthBass2
+40  41  St: Violin 2
+41  42  St: Viola 2
+42  43  St: Cello 2
+43  44  St: Contrabass
+44  45  St: TremoloStr
+45  46  Gt: Pizz
+46  47  Gt: Harp
+47  48  Cp: Timpni+Cym
+48  49  St: StereoSt1
+49  50  St: StereoSt2
+50  51  St: Grand Saw
+51  52  St: SynStrings
+52  53  Pd: Aah Choir
+53  54  Pd: Ooh Choir
+54  55  Pd: Syn Voice
+55  56  Me: Orch.Hit
+56  57  Br: Trumpet
+57  58  Br: Trombone 2
+58  59  Br: Tuba
+59  60  Br: MuteTrpt 2
+60  61  Br: F.Horns
+61  62  Br: Brass Sect
+62  63  Br: SynthBrass
+63  64  Br: Soft Brass
+64  65  Rp: Soprano 2
+65  66  Rp: Alto Sax
+66  67  Rp: TenorSax 2
+67  68  Rp: Bari Sax
+68  69  Rp: Oboe
+69  70  Rp: Eng.Horn
+70  71  Rp: Bassoon
+71  72  Rp: Clarinet
+72  73  Rp: Piccolo
+73  74  Rp: Flute
+74  75  Rp: Recorder
+75  76  Rp: Panflute
+76  77  Rp: Bottle
+77  78  Rp: Shakuhachi
+78  79  Rp: Whistle
+79  80  Rp: Ocarina
+80  81  Ld: Square Ld
+81  82  Ld: Saw Ld
+82  83  Ld: Caliop Ld
+83  84  Ld: Chiff Ld
+84  85  Ld: Charan Ld
+85  86  Ld: Voice Ld
+86  87  Ld: Fifth Ld
+87  88  Ld: Bass&Ld
+88  89  Pd: New Age
+89  90  Pd: Warm Pad
+90  91  Pd: Poly Synth
+91  92  Pd: Choir Pad
+92  93  Pd: BowedPad
+93  94  Pd: Metal Pad
+94  95  Pd: Halo Pad
+95  96  Pd: Sweep Pad
+96  97  Me: Rain Pad
+97  98  Pd: SoundTrack
+98  99  Cp: Crystal
+99  100 Pd: Atmosphere
+100 101 Sc: Brightness
+101 102 Me: Goblin
+102 103 Me: Echoes
+103 104 Pd: Sci-Fi
+104 105 Gt: Sitar
+105 106 Gt: Banjo
+106 107 Gt: Shamisen
+107 108 Gt: Koto
+108 109 Cp: Kalimba
+109 110 Rp: Bagpipe
+110 111 St: Fiddle
+111 112 Rp: Shanai
+112 113 Cp: Tinkerbel
+113 114 Dr: Agogo
+114 115 Cp: Steeldrum
+115 116 Dr: Woodblock
+116 117 Dr: Taikodrum
+117 118 Dr: MelodicTom
+118 119 Dr: Synth Drum
+119 120 Se: Rev Cymbal
+120 121 Se: Fret Noise
+121 122 Se: BreathNoiz
+122 123 Se: Seashore
+123 124 Se: Tweet
+124 125 Se: Telephone
+125 126 Se: Helicopter
+126 127 Se: Applause
+127 128 Se: Gunshot
 
