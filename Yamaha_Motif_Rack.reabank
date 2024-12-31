@@ -778,3 +778,133 @@ Bank 0 0 General MIDI
 126 127 Se: Applause
 127 128 Se: Gunshot
 
+Bank 63 8 User1
+0   1   Co: M25 M.W.
+1   2   Pd: Softstars
+2   3   Ba: Fast PWM
+3   4   Ba: Terminator
+4   5   Me: Soft Tar
+5   6   Co: Sorted
+6   7   Ba: Trendy Wah
+7   8   Se: Feed S&H
+8   9   Me: Didge
+9   10  Ba: Old House
+10  11  Ld: HPF Dance
+11  12  Me: Like Bees
+12  13  Ba: Exodus
+13  14  Me: S/H Gruv
+14  15  Gt: Funk It!!
+15  16  Co: Opening
+16  17  Co: DigDag
+17  18  Pd: Dark Light
+18  19  Ba: Boom Bass
+19  20  Se: Dirtbox
+20  21  Pd: Shandala
+21  22  Co: Titan
+22  23  Ba: Puls Step
+23  24  Co: Racket
+24  25  Ld: Big Lead
+25  26  Ba: Blush
+26  27  Ld: Squeaky
+27  28  Se: Duck Worm
+28  29  Ba: Jon
+29  30  Co: Weird scar
+30  31  Gt: Auto Wah
+31  32  Co: MINIMAL
+32  33  Co: MGul
+33  34  Pd: BrokenStar
+34  35  Ba: Smooth
+35  36  Se: Sawmill
+36  37  Me: Cavern
+37  38  Co: Supersnap
+38  39  Ba: Fuzzline
+39  40  Ld: Foreplay
+40  41  Or: Brooklyn
+41  42  Ba: Brief
+42  43  Ld: Dist-MW
+43  44  Me: Hit&Down
+44  45  Ba: Froglegs
+45  46  Me: Sand
+46  47  Gt: R&B Steel
+47  48  Co: Rabbit
+48  49  Co: ElecWorld
+49  50  Me: Sickday
+50  51  Ba: LoSnake
+51  52  Se: Boomeran
+52  53  Me: O+Ca+Si+Na
+53  54  Co: Space Run
+54  55  Ba: Additive
+55  56  Ld: Rap Lead 1
+56  57  Me: Nordic
+57  58  Ba: Hip Aco
+58  59  Ld: Mr. Cool
+59  60  Me: Orch Hits
+60  61  Ba: Damp Cat
+61  62  Me: FISHINREEL
+62  63  Gt: Melo Trmlo
+63  64  Sc: Fois Gras
+64  65  Kb: CheapEP
+65  66  St: AnaMarcato
+66  67  Ba: G Bass
+67  68  Se: Dolphin
+68  69  Me: Evolve
+69  70  Me: ARRIVAL
+70  71  Ba: Wazzo
+71  72  Ld: Rap Lead 2
+72  73  Me: Richard
+73  74  Ba: Hip Pick
+74  75  Ld: Early Lead
+75  76  Se: BDScrtch
+76  77  Ba: Dukes
+77  78  Ld: Mayday MW
+78  79  Gt: CoolWAH
+79  80  Sc: Mascara
+80  81  Kb: HipWahEP
+81  82  Br: ChorusComp
+82  83  Ba: Compton
+83  84  Se: Red Dots
+84  85  Pd: Fragile
+85  86  Me: SpookyVibe
+86  87  Ba: Gangsta
+87  88  Ld: Rap Lead 3
+88  89  Sc: 81Z Comp
+89  90  Ba: DarkBass
+90  91  Ld: HiPaWheel
+91  92  Se: Rap Scream
+92  93  Ba: InyerBass
+93  94  Ld: Pierced
+94  95  Gt: Hip Mute
+95  96  St: Hip Pizz
+96  97  Kb: R&B EP+DX
+97  98  Br: Kustom
+98  99  Ba: PortaBass
+99  100 Se: Sirens
+100 101 Me: Silver
+101 102 Me: Zanaks
+102 103 Ba: 2001 Sub
+103 104 Ld: Sine Lead
+104 105 Ba: UK Oam
+105 106 Ba: Fooger
+106 107 Ld: D-tune
+107 108 Se: Rap Toyz
+108 109 Ba: Mucus M
+109 110 Ld: Future Z
+110 111 Gt: FM Guitar
+111 112 Me: Trancedot
+112 113 Me: Dead?Alive
+113 114 St: SlowSuckr
+114 115 Ba: Clickk
+115 116 Se: KewBrick
+116 117 Pd: Munchkins
+117 118 Me: Ants
+118 119 Ba: Snoop Bass
+119 120 Ld: BabeMagnet
+120 121 Ba: Jones
+121 122 Se: 100 dreams
+122 123 Ld: FKitchen
+123 124 Co: Rabino
+124 125 Ba: Teknophobe
+125 126 Me: FizzWah
+126 127 Ld: Hip Voice
+127 128 Me: Strobe
+
