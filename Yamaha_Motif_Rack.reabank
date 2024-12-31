@@ -1,5 +1,4 @@
-// Preset1 (MSB=63, LSB=0)
-Bank 63 0 Pre 1 Pianos, Pipe & More
+Bank 63 0 Pre1: Ap, Kb, Cp, Or, Gt, Ba
 0   1   Ap: PowerGrand
 1   2   Ap: Jazz Grand
 2   3   Ap: Dark Grand
@@ -128,3 +127,133 @@ Bank 63 0 Pre 1 Pianos, Pipe & More
 125 126 Ba: Long Spit
 126 127 Ba: Tack Bass
 127 128 Ba: Fat Octave
+
+Bank 63 1 Pre2: St, Br, Rp, Ld, Pd, Me
+0   1   St: Violin
+1   2   St: Viola
+2   3   St: Cello
+3   4   St: SoloSpicat
+4   5   St: 2 Solos
+5   6   St: Cello Duet
+6   7   St: Trio
+7   8   St: Chamber
+8   9   St: Small Ens
+9   10  St: Medium Ens
+10  11  St: Ens Mix
+11  12  St: Ensemble
+12  13  St: Hard Ens
+13  14  St: Background
+14  15  St: BigSymphny
+15  16  Br: Str/Horns
+16  17  St: Stringy
+17  18  St: Polystring
+18  19  St: JP Strings
+19  20  St: MournStrgs
+20  21  St: The Pizz
+21  22  Br: Fanfare
+22  23  Br: Hi Brass
+23  24  Br: Fat Sect
+24  25  Br: Sforzando
+25  26  Br: Symphony
+26  27  Br: Big Band
+27  28  Br: Big Band 2
+28  29  Br: SaxBigBand
+29  30  Br: MedmBrass
+30  31  Br: Soft Brass
+31  32  Br: SoftVeloBr
+32  33  Br: TrpRomantc
+33  34  Br: Phase Mute
+34  35  Br: Legend
+35  36  Br: Trombone
+36  37  Br: Flugelleaz
+37  38  Br: F.Horn Ens
+38  39  Br: SlowAttack
+39  40  Br: Strng/Bras
+40  41  Br: Movie Ens
+41  42  Br: Powered
+42  43  Br: ObStuff
+43  44  Br: Prophy
+44  45  Br: AnalogBras
+45  46  Br: After 1984
+46  47  Rp: Soprano
+47  48  Rp: Alto Vib
+48  49  Rp: SaxEnsembl
+49  50  Rp: Tenor Sax
+50  51  Rp: Tenor Soft
+51  52  Rp: The Winds
+52  53  St: WindOrch
+53  54  Rp: SweetFlute
+54  55  Rp: PanBottle
+55  56  Rp: AmpHarpMW
+56  57  Ld: SmoothSaw
+57  58  Ld: Lucky
+58  59  Ld: Tri Solo
+59  60  Ld: Syntrump
+60  61  Ld: PWM Lead
+61  62  Ld: Clicky Saw
+62  63  Ld: Mini Pulse
+63  64  Ld: Sync Lead
+64  65  Pd: Altair
+65  66  Pd: Analog
+66  67  Pd: Sweetland
+67  68  Pd: WarmSweepy
+68  69  Pd: SinePad
+69  70  Pd: Square
+70  71  Pd: VoxPad
+71  72  Pd: Pure Syn
+72  73  Pd: MovingPad
+73  74  Pd: SimpleSaws
+74  75  Pd: X-Shower
+75  76  Pd: PWM Pad
+76  77  Pd: Bell Choir
+77  78  Pd: ObSoft
+78  79  Pd: MellowAnlg
+79  80  Pd: Glasschoir
+80  81  Pd: PeaceVox
+81  82  Pd: StackChoir
+82  83  Pd: Bronx
+83  84  Pd: IceChoir
+84  85  Pd: Fast Oohs
+85  86  Pd: Ooze & OZ
+86  87  Pd: NeoCrystal
+87  88  Pd: Pop Synth
+88  89  Pd: Fantasy
+89  90  Pd: Heavenly
+90  91  Pd: Retro
+91  92  Pd: Airy Nylon
+92  93  Pd: Antares
+93  94  Pd: Pan Sphere
+94  95  Pd: Tamburax
+95  96  Pd: IndianFlai
+96  97  Me: SAKURA
+97  98  Me: RisingHigh
+98  99  Me: Champ
+99  100 Me: Gladiator
+100 101 Me: Hades
+101 102 Me: Glacy
+102 103 Me: Forest
+103 104 Me: MirrorRing
+104 105 Sc: Poly
+105 106 Sc: AnaTonk
+106 107 Gt: Jaipur
+107 108 Gt: Dulcitar
+108 109 Cp: Cimbalon
+109 110 Rp: EthncFlute
+110 111 Rp: Hichiriki
+111 112 Rp: Ryuteki
+112 113 Rp: Gagaku
+113 114 St: Kokyu
+114 115 Rp: Digidoo
+115 116 Dr: Bali
+116 117 Gt: Indo
+117 118 Dr: Trip East
+118 119 Dr: Tabla
+119 120 Dr: Djembe
+120 121 Cp: Djerimbe
+121 122 Dr: Udu
+122 123 Dr: Tribal
+123 124 Cp: Log&Drum
+124 125 Dr: Afro
+125 126 Co: Japanesque
+126 127 Me: EthnoShock
+127 128 Dr: Ethnology
