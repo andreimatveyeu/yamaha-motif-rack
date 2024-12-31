@@ -257,3 +257,135 @@ Bank 63 1 Pre2: St, Br, Rp, Ld, Pd, Me
 125 126 Co: Japanesque
 126 127 Me: EthnoShock
 127 128 Dr: Ethnology
+
+Bank 63 2 Pre3: Ap, Kb, Or, Ba, St, Br, Ld, Pd, Me, Co, Se
+0   1   Ap: Wide Comp
+1   2   Ap: 78rpmPiano
+2   3   Ap: Bristol
+3   4   Ap: Mono Comp
+4   5   Ap: Dance
+5   6   Ap: Houze
+6   7   Kb: Glass EP
+7   8   Kb: VintSwitch
+8   9   Kb: Early Case
+9   10  Kb: RdsScape
+10  11  Ap: RichEcho
+11  12  Kb: StringyPno
+12  13  Or: Champagne
+13  14  Or: Moet
+14  15  Or: Compact
+15  16  Or: 1967 Keys
+16  17  Or: YD-45C
+17  18  Ba: Gnarly
+18  19  Ba: Modular
+19  20  Ba: Dark Jack
+20  21  Ba: OneVoice
+21  22  Ba: Dry Syn
+22  23  Ba: PlasticBas
+23  24  Ba: Bassline
+24  25  Ba: RubbaRap
+25  26  Ba: Juicy
+26  27  Ba: Dark
+27  28  Ba: UniBass
+28  29  Ba: Flyer
+29  30  Ba: QuackBass
+30  31  Ba: Moonbass
+31  32  Ba: ClassicSub
+32  33  Ba: DX100
+33  34  Ba: Lately
+34  35  Ba: FMBass
+35  36  St: Oct String
+36  37  St: 3 Octave
+37  38  St: TapeStrngs
+38  39  St: VP Strings
+39  40  Br: BriteTeeth
+40  41  Br: XDance
+41  42  Br: Timeless
+42  43  Br: FatSynth
+43  44  Br: Big Syn
+44  45  Rp: Bluesharp
+45  46  Ld: Sync
+46  47  Ld: Atk Reso
+47  48  Ld: Singleline
+48  49  Ld: Free LFO
+49  50  Ld: Soft Lead
+50  51  Ld: PulseWound
+51  52  Ld: Big Drone
+52  53  Ld: Big Tune
+53  54  Ld: PowerWheel
+54  55  Ld: Flangefilt
+55  56  Ld: G-Funk
+56  57  Ld: Maria AT
+57  58  Ld: InThePast
+58  59  Pd: FatSawPad
+59  60  Pd: Wide Sweep
+60  61  Pd: Sunbeams
+61  62  Pd: BPFx
+62  63  Pd: FrozenPad
+63  64  Pd: MICHINOKU
+64  65  Pd: Esmeralda
+65  66  Pd: Romance
+66  67  Pd: Circle
+67  68  Pd: Dreamspher
+68  69  Pd: Silverlake
+69  70  Pd: Shadow
+70  71  Pd: Platinum
+71  72  Pd: Gently
+72  73  Pd: Warming
+73  74  Pd: PW-EMMY
+74  75  Pd: X-fade Pad
+75  76  Pd: Zosma
+76  77  Pd: NoizRezz
+77  78  Pd: Mira
+78  79  Pd: MultiPulse
+79  80  Pd: VoxWaves
+80  81  Pd: LazySweep
+81  82  Pd: Doomed
+82  83  Sc: PerkaVox
+83  84  Sc: Punchy
+84  85  Sc: Eyeliner
+85  86  Me: Quieck
+86  87  Me: Aladdin
+87  88  Me: QuadSwell
+88  89  Me: Lilley Pad
+89  90  Me: Didje Baz
+90  91  Me: RING PAD
+91  92  Me: Chaser 1
+92  93  Me: Chaser 2
+93  94  Me: Spacebreat
+94  95  Me: Long HiPa
+95  96  Me: Action Y
+96  97  Me: Trancelan
+97  98  Me: Eternal
+98  99  Me: VirtualSyn
+99  100 Me: Interlude
+100 101 Me: Flying
+101 102 Me: TheSlayer
+102 103 Me: White Rabb
+103 104 Me: Siam
+104 105 Co: Ududu
+105 106 Co: Particle
+106 107 Co: Shaper
+107 108 Co: VintageArp
+108 109 Co: Aah Dance
+109 110 Co: Joker
+110 111 Co: Holiday
+111 112 Co: Android
+112 113 Co: Spacious
+113 114 Co: VoiceCuica
+114 115 Co: Pop Arp
+115 116 Co: Ping Pong
+116 117 Se: Amoeba
+117 118 Se: Landing
+118 119 Se: I was born
+119 120 Se: PsychoGtr
+120 121 Se: NoGravity
+121 122 Se: Pulser
+122 123 Se: Racer
+123 124 Se: Storm
+124 125 Se: Oscillatin
+125 126 Se: FamlyFeud
+126 127 Se: WatrForest
+127 128 Se: Spacecraft
+
+
